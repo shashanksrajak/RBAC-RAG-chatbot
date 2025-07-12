@@ -4,6 +4,8 @@ A comprehensive Retrieval-Augmented Generation (RAG) chatbot system built with L
 
 ![Chat UI](docs/chat-ui.png)
 
+![Chat UI](docs/user-flow.png)
+
 ## 🔒 Data Privacy & Security
 
 In traditional RAG systems, users can potentially craft malicious prompts to access sensitive information across organizational silos, bypassing intended data boundaries. This poses significant security risks where employees might gain unauthorized access to confidential documents from other departments through clever prompt engineering.
